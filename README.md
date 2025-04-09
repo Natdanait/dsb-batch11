@@ -9,7 +9,7 @@ My data science and analytics projects
 5. Linear Regression Model using caret
 
 ## Contact Me
-reach me at t.natdanai@gmai.com
+reach out to me at t.natdanai@gmai.com
 
 ![Alt text](https://seobrien.com/wp-content/uploads/2016/03/bigdata-tag-cloud.jpg)
 
